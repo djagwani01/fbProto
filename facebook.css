@@ -1,0 +1,103 @@
+body {
+	margin: 0;
+}
+
+
+/*For login and sign up*/
+
+.flex-container1 {
+    display: -webkit-flex;
+    display: flex;
+    width: 1366px;
+    height: 82px;
+    background-color: rgba(15, 50, 110, 0.8);
+	border-bottom: 0.5px black solid;
+    /*-webkit-justify-content: space-between;
+    justify-content: space-between;*/
+	-webkit-flex-wrap: nowrap;
+	flex-wrap: nowrap;
+}
+
+.flex-item1{
+	color: white;
+	font-size: 2.85pc;
+    width: 180px;
+    height: 60px;
+    margin-top: 23px;
+	margin-bottom: 15px;
+	margin-left: 185px;
+	margin-right: 250;
+	/*font-family: klavika;*/
+	/*background-color: black;*/
+}
+
+.flex-item2{
+	color: white;
+	font-size: 0.85pc;
+    width: 100px;
+    height: 40px;
+    margin-top: 16px;
+	margin-bottom: 30px;
+	margin-left: 430px;
+	/*margin-left: 550px;*/
+	/*font-family: klavika;*/
+	/*background-color: black;*/
+	
+}
+
+.flex-item3{
+	color: white;
+	font-size: 0.85pc;
+    width: 100px;
+    height: 40px;
+    margin-top: 16px;
+	margin-bottom: 30px;
+	margin-left: 60px;
+	/*margin-left: 550px;*/
+	/*font-family: klavika;*/
+	/*background-color: black;*/
+}
+
+.flex-item4{
+	color: white;
+	font-size: 0.85pc;
+    width: 95px;
+    height: 40px;
+    margin-top: 36px;
+	margin-bottom: 30px;
+	margin-left: 60px;
+	/*margin-left: 550px;*/
+	/*font-family: klavika;*/
+}
+
+.flex-item5{
+	color: rgba(240, 240, 255, 0.8);
+	font-size: 0.85pc;
+    width: 95px;
+    height: 40px;
+    margin-top: 36px;
+	margin-bottom: 30px;
+	margin-left: 60px;
+	/*margin-left: 550px;*/
+	/*font-family: klavika;*/
+}
+
+a:link {font-weight:bolder; color:white;}
+a:visited {font-weight:bolder; color:white}
+a:hover {background-color: rgba(25, 25, 200, 0.2); font-weight:bolder; color:white}
+
+
+/*Lower Part*/
+
+.flex-container2 {
+    display: -webkit-flex;
+    display: flex;
+    width: 1366px;
+    height: 2000px;
+    background-color: rgba(240, 240, 255, 0.8);
+	border-bottom: 0.5px black solid;
+    /*-webkit-justify-content: space-between;
+    justify-content: space-between;*/
+	-webkit-flex-wrap: nowrap;
+	flex-wrap: nowrap;
+}
